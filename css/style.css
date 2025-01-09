@@ -228,6 +228,9 @@ ul {
   width: 100%;
   box-sizing: border-box;
 }
+.link-trend:hover {
+  color: #b59f5b;
+}  
 
 .main-container {
   display: flex;
@@ -903,7 +906,7 @@ h4 {
   }
 
   .news {
-    width: calc(100% - 305px);
+    width: 100%;
   }
 
   .news-img {
